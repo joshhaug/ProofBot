@@ -1,0 +1,1 @@
+<img src=":/images/EquationSheet/file-page1.png" alt="Theorem 1" height="42" width="42">
